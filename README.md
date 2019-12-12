@@ -1,1 +1,1 @@
-# Deep_Learning_Team6
+# Deep_Learning_Team
